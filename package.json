@@ -1,0 +1,22 @@
+{
+  "name": "peertube-theme-fediverseTv",
+  "version": "0.0.1",
+  "description": "fediverseTv theme",
+  "engine": {
+    "peertube": ">=2.4.0"
+  },
+  "keywords": [
+    "peertube",
+    "theme"
+  ],
+  "homepage": "https://github.com/scarlet-tobar/peertube-theme-fediverseTv",
+  "author": "scarlet-tobar",
+  "bugs": "https://github.com/scarlet-tobar/peertube-theme-fediverseTv/issues",
+  "staticDirs": {"static"},
+  "css": [
+    "assets/style.css"
+  ],
+  "clientScripts": [],
+  "translations": {}
+}
+
